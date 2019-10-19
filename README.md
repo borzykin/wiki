@@ -11,3 +11,4 @@
 **WebDriver**  
 * [Basic setup](https://github.com/borzykin/wiki/wiki/Selenium-Basic-Setup)
 * [BaseTest and DriverFactory](https://github.com/borzykin/wiki/wiki/BaseTest-and-DriverFactory)
+* [PageObjects](https://github.com/borzykin/wiki/wiki/PageObjects)
