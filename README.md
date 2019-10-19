@@ -5,5 +5,9 @@
 * [Console UI (Switch)](https://github.com/borzykin/wiki/wiki/Console-UI-(Switch))
 
 **Automation**  
-* [Appium 'Hello world'](https://github.com/borzykin/wiki/wiki/Appium-%22Hello-world%22)
+* [Appium Hello world](https://github.com/borzykin/wiki/wiki/Appium-%22Hello-world%22)
 * [Rest Assured](https://github.com/borzykin/wiki/wiki/Rest-Assured-(Draft))
+
+**WebDriver**  
+* [Basic setup](https://github.com/borzykin/wiki/wiki/Selenium-Basic-Setup)
+* [BaseTest and DriverFactory](https://github.com/borzykin/wiki/wiki/BaseTest-and-DriverFactory)
