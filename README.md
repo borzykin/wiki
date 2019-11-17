@@ -3,6 +3,7 @@
 * [Date/Time](https://github.com/borzykin/wiki/wiki/Date-Time)
 * [Math round](https://github.com/borzykin/wiki/wiki/Math-Roundings)
 * [Console UI (Switch)](https://github.com/borzykin/wiki/wiki/Console-UI-(Switch))
+* [Read/Write Properties](https://github.com/borzykin/wiki/wiki/Read-Write-properties)
 
 **Automation**  
 * [Appium setup Win10](https://github.com/borzykin/wiki/wiki/Setup-Appium-on-Win-10)
@@ -15,6 +16,7 @@
 * [Basic setup](https://github.com/borzykin/wiki/wiki/Selenium-Basic-Setup)
 * [BaseTest and DriverFactory](https://github.com/borzykin/wiki/wiki/BaseTest-and-DriverFactory)
 * [PageObjects](https://github.com/borzykin/wiki/wiki/PageObjects)
+* [Log4J](https://github.com/borzykin/wiki/wiki/Log4j)
 
 Set to Array (Java 11):
 Integer[] array = set.toArray(Integer[]::new);
