@@ -20,3 +20,12 @@
 
 Set to Array (Java 11):
 Integer[] array = set.toArray(Integer[]::new);
+
+Sort HashMap by value
+
+    private Map<String, Double> sortByValue(final Map<String, Double> input) {
+        return input.entrySet()
+                .stream()
+                .sorted((Map.Entry.<String, Double>comparingByValue().reversed()))
+                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (e1, e2) -> e1, LinkedHashMap::new));
+    }
