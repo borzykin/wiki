@@ -17,6 +17,7 @@
 * [BaseTest and DriverFactory](https://github.com/borzykin/wiki/wiki/BaseTest-and-DriverFactory)
 * [PageObjects](https://github.com/borzykin/wiki/wiki/PageObjects)
 * [Log4J](https://github.com/borzykin/wiki/wiki/Log4j)
+* [Alerts Windows Frames](https://github.com/borzykin/wiki/wiki/Alerts---Windows---Frames)
 
 Set to Array (Java 11):
 Integer[] array = set.toArray(Integer[]::new);
