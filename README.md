@@ -30,3 +30,11 @@ Sort HashMap by value
                 .sorted((Map.Entry.<String, Double>comparingByValue().reversed()))
                 .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (e1, e2) -> e1, LinkedHashMap::new));
     }
+
+Скриншоты
+File tempFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+try {
+  Files.copy(tempFile, new File("screen.png"));
+} catch (IOException e) {
+  e.printStackTrace();
+}
