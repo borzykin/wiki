@@ -32,9 +32,11 @@ Sort HashMap by value
     }
 
 Скриншоты
+```Java
 File tempFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 try {
   Files.copy(tempFile, new File("screen.png"));
 } catch (IOException e) {
   e.printStackTrace();
 }
+```
