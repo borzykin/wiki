@@ -11,6 +11,7 @@
 * [Rest Assured](https://github.com/borzykin/wiki/wiki/Rest-Assured-(Draft))
 * [Enum for locators](https://github.com/borzykin/wiki/wiki/Enum-for-locators)
 * [Stream filtering](https://github.com/borzykin/wiki/wiki/Filter-WebElemets-with-stream)
+* [RestRail integration via testng listeners](https://github.com/borzykin/wiki/wiki/RestRail-integration-via-testng-listeners)
 
 **WebDriver**  
 * [Basic setup](https://github.com/borzykin/wiki/wiki/Selenium-Basic-Setup)
