@@ -4,6 +4,7 @@
 * [Math round](https://github.com/borzykin/wiki/wiki/Math-Roundings)
 * [Console UI (Switch)](https://github.com/borzykin/wiki/wiki/Console-UI-(Switch))
 * [Read/Write Properties](https://github.com/borzykin/wiki/wiki/Read-Write-properties)
+* [Java version, suiteXmlFile и Encoding](https://github.com/borzykin/wiki/wiki/Java-version,-suiteXmlFile-%D0%B8-Encoding)
 
 **Automation**  
 * [Appium setup Win10](https://github.com/borzykin/wiki/wiki/Setup-Appium-on-Win-10)
