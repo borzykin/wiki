@@ -12,6 +12,7 @@
 * [Enum for locators](https://github.com/borzykin/wiki/wiki/Enum-for-locators)
 * [Stream filtering](https://github.com/borzykin/wiki/wiki/Filter-WebElemets-with-stream)
 * [RestRail integration via testng listeners](https://github.com/borzykin/wiki/wiki/RestRail-integration-via-testng-listeners)
+* [Custom Annotation to pass ID](https://github.com/borzykin/wiki/wiki/Custom-Annotation-to-pass-ID)
 
 **WebDriver**  
 * [Basic setup](https://github.com/borzykin/wiki/wiki/Selenium-Basic-Setup)
