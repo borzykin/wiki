@@ -14,6 +14,7 @@
 * [Stream filtering](https://github.com/borzykin/wiki/wiki/Filter-WebElemets-with-stream)
 * [RestRail integration via testng listeners](https://github.com/borzykin/wiki/wiki/RestRail-integration-via-testng-listeners)
 * [Custom Annotation to pass ID](https://github.com/borzykin/wiki/wiki/Custom-Annotation-to-pass-ID)
+* [Cucumber Java](https://github.com/borzykin/wiki/wiki/Cucumber-Java-quick-guide)
 
 **WebDriver**  
 * [Basic setup](https://github.com/borzykin/wiki/wiki/Selenium-Basic-Setup)
