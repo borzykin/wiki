@@ -12,8 +12,9 @@
 * [Enum for locators](https://github.com/borzykin/wiki/wiki/Enum-for-locators)
 * [Stream filtering](https://github.com/borzykin/wiki/wiki/Filter-WebElemets-with-stream)
 * [RestRail integration via testng listeners](https://github.com/borzykin/wiki/wiki/RestRail-integration-via-testng-listeners)
-* [Custom Annotation to pass ID](https://github.com/borzykin/wiki/wiki/Custom-Annotation-to-pass-ID)
+* [Custom Annotation for ID](https://github.com/borzykin/wiki/wiki/Custom-Annotation-to-pass-ID)
 * [Cucumber Java](https://github.com/borzykin/wiki/wiki/Cucumber-Java-quick-guide)
+* [Regular Expressions for BDD](https://github.com/borzykin/wiki/wiki/Regular-Expressions-for-BDD)
 
 **WebDriver**  
 * [Basic setup](https://github.com/borzykin/wiki/wiki/Selenium-Basic-Setup)
