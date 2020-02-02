@@ -7,7 +7,6 @@
 * [Java version, suiteXmlFile и Encoding](https://github.com/borzykin/wiki/wiki/Java-version,-suiteXmlFile-%D0%B8-Encoding)
 
 **Automation**  
-* [Appium setup Win10](https://github.com/borzykin/wiki/wiki/Setup-Appium-on-Win-10)
 * [Appium Hello world](https://github.com/borzykin/wiki/wiki/Appium-%22Hello-world%22)
 * [Rest Assured](https://github.com/borzykin/wiki/wiki/Rest-Assured-(Draft))
 * [Enum for locators](https://github.com/borzykin/wiki/wiki/Enum-for-locators)
