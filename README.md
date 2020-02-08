@@ -5,6 +5,7 @@
 * [Console UI (Switch)](https://github.com/borzykin/wiki/wiki/Console-UI-(Switch))
 * [Read/Write Properties](https://github.com/borzykin/wiki/wiki/Read-Write-properties)
 * [Java version, suiteXmlFile и Encoding](https://github.com/borzykin/wiki/wiki/Java-version,-suiteXmlFile-%D0%B8-Encoding)
+* [Streams](https://github.com/borzykin/wiki/wiki/Streams)
 
 **Automation**  
 * [Appium Hello world](https://github.com/borzykin/wiki/wiki/Appium-%22Hello-world%22)
