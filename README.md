@@ -3,7 +3,7 @@
 * [Date/Time](https://github.com/borzykin/wiki/wiki/Date-Time)
 * [Math round](https://github.com/borzykin/wiki/wiki/Math-Roundings)
 * [Console UI (Switch)](https://github.com/borzykin/wiki/wiki/Console-UI-(Switch))
-* [Read/Write Properties, Serialization](https://github.com/borzykin/wiki/wiki/Read-Write-properties)
+* [Read/Write Properties, Serialization](https://github.com/borzykin/wiki/wiki/Read-Write-properties,-Serialization)
 * [Java version, suiteXmlFile и Encoding](https://github.com/borzykin/wiki/wiki/Java-version,-suiteXmlFile-%D0%B8-Encoding)
 * [Streams](https://github.com/borzykin/wiki/wiki/Streams)
 
