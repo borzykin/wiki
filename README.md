@@ -23,6 +23,7 @@
 * [PageObjects](https://github.com/borzykin/wiki/wiki/PageObjects)
 * [Log4J](https://github.com/borzykin/wiki/wiki/Log4j)
 * [Alerts Windows Frames](https://github.com/borzykin/wiki/wiki/Alerts---Windows---Frames)
+* [Local Storage](https://github.com/borzykin/wiki/wiki/Local-Storage)
 
 Set to Array (Java 11):
 Integer[] array = set.toArray(Integer[]::new);
