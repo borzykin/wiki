@@ -6,6 +6,7 @@
 * [Read/Write Properties, Serialization](https://github.com/borzykin/wiki/wiki/Read-Write-properties,-Serialization)
 * [Java version, suiteXmlFile и Encoding](https://github.com/borzykin/wiki/wiki/Java-version,-suiteXmlFile-%D0%B8-Encoding)
 * [Streams](https://github.com/borzykin/wiki/wiki/Streams)
+* [Guice](https://github.com/borzykin/wiki/wiki/Guice-with-WebDriver)
 
 **Automation**  
 * [Appium Hello world](https://github.com/borzykin/wiki/wiki/Appium-%22Hello-world%22)
