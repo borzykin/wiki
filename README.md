@@ -20,13 +20,13 @@
 [Grid on Windows](https://github.com/borzykin/wiki/wiki/Grid-on-Windows)  
 [Guice with WebDriver](https://github.com/borzykin/wiki/wiki/Guice-with-WebDriver)  
 **J**  
-[JS to change class name (e.g to remove annying pop up)](https://github.com/borzykin/wiki/wiki/JS-to-change-class-name-(e.g-to-remove-annying-pop-up))  
-[JUnit 5 Watcher and Allure screenshots](https://github.com/borzykin/wiki/wiki/JUnit-5-Watcher-and-Allure-screenshots)  
-[JUnit5 run listener](https://github.com/borzykin/wiki/wiki/JUnit5-run-listener)  
 [Java version, suiteXmlFile и Encoding (pom.xml)](https://github.com/borzykin/wiki/wiki/Java-version,-suiteXmlFile-%D0%B8-Encoding-(pom.xml))  
 [Javax Mail](https://github.com/borzykin/wiki/wiki/Javax-Mail)  
 [Jenkins add node (mac mini as agent example)](https://github.com/borzykin/wiki/wiki/Jenkins---add-node-(mac-mini-as-agent-example))  
 [Jmeter](https://github.com/borzykin/wiki/wiki/Jmeter)  
+[JS to change class name (e.g to remove annying pop up)](https://github.com/borzykin/wiki/wiki/JS-to-change-class-name-(e.g-to-remove-annying-pop-up))  
+[JUnit 5 Watcher and Allure screenshots](https://github.com/borzykin/wiki/wiki/JUnit-5-Watcher-and-Allure-screenshots)  
+[JUnit5 run listener](https://github.com/borzykin/wiki/wiki/JUnit5-run-listener)  
 **L**  
 [Local Storage](https://github.com/borzykin/wiki/wiki/Local-Storage)  
 **M**  
