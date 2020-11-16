@@ -25,8 +25,8 @@
 [Jenkins add node (mac mini as agent example)](https://github.com/borzykin/wiki/wiki/Jenkins---add-node-(mac-mini-as-agent-example))  
 [Jmeter](https://github.com/borzykin/wiki/wiki/Jmeter)  
 [JS to change class name (e.g to remove annying pop up)](https://github.com/borzykin/wiki/wiki/JS-to-change-class-name-(e.g-to-remove-annying-pop-up))  
-[JUnit 5 Watcher and Allure screenshots](https://github.com/borzykin/wiki/wiki/JUnit-5-Watcher-and-Allure-screenshots)  
-[JUnit5 run listener](https://github.com/borzykin/wiki/wiki/JUnit5-run-listener)  
+[JUnit 5 watcher and Allure screenshots](https://github.com/borzykin/wiki/wiki/JUnit-5-Watcher-and-Allure-screenshots)  
+[JUnit 5 run listener](https://github.com/borzykin/wiki/wiki/JUnit5-run-listener)  
 **L**  
 [Local Storage](https://github.com/borzykin/wiki/wiki/Local-Storage)  
 **M**  
