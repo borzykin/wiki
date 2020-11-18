@@ -43,7 +43,7 @@
 [Safari support WebDriver](https://github.com/borzykin/wiki/wiki/Safari-support-WebDriver)  
 [Selenide JUnit (pom.xml)](https://github.com/borzykin/wiki/wiki/Selenide-JUnit-(pom.xml))  
 [Selenium Basic Setup](https://github.com/borzykin/wiki/wiki/Selenium-Basic-Setup)  
-[Streams]()  
+[Streams](https://github.com/borzykin/wiki/wiki/Streams)  
 **T**  
 [Testng listeners (RestRail example)](https://github.com/borzykin/wiki/wiki/Testng-listeners-(RestRail-example))  
 **U**  
