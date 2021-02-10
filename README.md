@@ -39,6 +39,7 @@
 **R**  
 [Regular Expressions for BDD](https://github.com/borzykin/wiki/wiki/Regular-Expressions-for-BDD)  
 [Rest Assured (and GSON)](https://github.com/borzykin/wiki/wiki/Rest-Assured-(and-GSON))  
+[Rerun.txt cucumber](https://github.com/borzykin/wiki/wiki/Rerun.txt-cucumber) 
 **S**  
 [Safari support WebDriver](https://github.com/borzykin/wiki/wiki/Safari-support-WebDriver)  
 [Selenide JUnit (pom.xml)](https://github.com/borzykin/wiki/wiki/Selenide-JUnit-(pom.xml))  
