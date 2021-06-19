@@ -15,6 +15,8 @@
 [Docker compose file example](https://github.com/borzykin/wiki/wiki/Docker-compose-file-example)  
 **E**  
 [Enum examples](https://github.com/borzykin/wiki/wiki/Enum-examples)  
+**F**  
+[Find text with regexp](https://github.com/borzykin/wiki/wiki/Find-substring-with-regexp)  
 **G**  
 [Gradle](https://github.com/borzykin/wiki/wiki/Gradle)  
 [Grid on Windows](https://github.com/borzykin/wiki/wiki/Grid-on-Windows)  
@@ -40,6 +42,7 @@
 [Regular Expressions for BDD](https://github.com/borzykin/wiki/wiki/Regular-Expressions-for-BDD)  
 [Rest Assured (and GSON)](https://github.com/borzykin/wiki/wiki/Rest-Assured-(and-GSON))  
 [Rerun.txt cucumber](https://github.com/borzykin/wiki/wiki/Rerun.txt-cucumber)  
+[Read JSON in dir](https://github.com/borzykin/wiki/wiki/Read-JSON-files-in-directory)  
 **S**  
 [Safari support WebDriver](https://github.com/borzykin/wiki/wiki/Safari-support-WebDriver)  
 [Selenide JUnit (pom.xml)](https://github.com/borzykin/wiki/wiki/Selenide-JUnit-(pom.xml))  
