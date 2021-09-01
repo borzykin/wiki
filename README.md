@@ -43,6 +43,7 @@
 [Rest Assured (and GSON)](https://github.com/borzykin/wiki/wiki/Rest-Assured-(and-GSON))  
 [Rerun.txt cucumber](https://github.com/borzykin/wiki/wiki/Rerun.txt-cucumber)  
 [Read JSON in dir](https://github.com/borzykin/wiki/wiki/Read-JSON-files-in-directory)  
+[Read SQS](https://github.com/borzykin/wiki/wiki/Read-SQS-with-JMS)  
 **S**  
 [Safari support WebDriver](https://github.com/borzykin/wiki/wiki/Safari-support-WebDriver)  
 [Selenide JUnit (pom.xml)](https://github.com/borzykin/wiki/wiki/Selenide-JUnit-(pom.xml))  
