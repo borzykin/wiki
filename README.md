@@ -13,7 +13,6 @@
 **D**  
 [Date Time examples](https://github.com/borzykin/wiki/wiki/Date-Time-examples)  
 [Docker cheatsheet](https://github.com/borzykin/wiki/wiki/Docker-cheat-sheet)  
-[Docker compose file example](https://github.com/borzykin/wiki/wiki/Docker-compose-file-example)  
 **E**  
 [Enum examples](https://github.com/borzykin/wiki/wiki/Enum-examples)  
 **F**  
@@ -44,11 +43,12 @@
 [Rest Assured (and GSON)](https://github.com/borzykin/wiki/wiki/Rest-Assured-(and-GSON))  
 [Rerun.txt cucumber](https://github.com/borzykin/wiki/wiki/Rerun.txt-cucumber)  
 [Read JSON in dir](https://github.com/borzykin/wiki/wiki/Read-JSON-files-in-directory)  
-[Read SQS](https://github.com/borzykin/wiki/wiki/Read-SQS-with-JMS)  
+[AWS SQS/SNS](https://github.com/borzykin/wiki/wiki/Read-SQS-with-JMS)  
 **S**  
 [Safari support WebDriver](https://github.com/borzykin/wiki/wiki/Safari-support-WebDriver)  
 [Selenide JUnit (pom.xml)](https://github.com/borzykin/wiki/wiki/Selenide-JUnit-(pom.xml))  
 [Selenium Basic Setup](https://github.com/borzykin/wiki/wiki/Selenium-Basic-Setup)  
+[Selenoid](https://github.com/borzykin/wiki/wiki/Selenoid)  
 [Streams](https://github.com/borzykin/wiki/wiki/Streams)  
 **T**  
 [Testng listeners (RestRail example)](https://github.com/borzykin/wiki/wiki/Testng-listeners-(RestRail-example))  
